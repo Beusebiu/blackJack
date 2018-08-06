@@ -1,0 +1,50 @@
+
+.container:{
+	width: 80%;
+	margin:10px auto;
+	box-sizing: border-box;
+}
+
+header{
+	letter-spacing: 1px;
+	font-family: Impact, Charcoal, sans-serif;
+	color:white;
+	font-size: 25px;
+	text-align: center;
+	background-color: black;
+}
+header p{
+	padding: 5px;
+}
+
+.b{
+	font-size: 40px;
+}
+menu{
+	text-align: center;
+}
+
+menu p{
+	letter-spacing: 1px;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 25px;
+	text-align: center;
+  }
+menu button{
+	margin: 0 auto;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color: #bc0000;
+	padding: 15px;
+	background-color:gray;
+}
+
+footer{
+	padding: 5px;
+	letter-spacing: 1px;
+	font-family: Impact, Charcoal, sans-serif;
+	color:white;
+	text-align: center;
+	background-color: black;
+}
